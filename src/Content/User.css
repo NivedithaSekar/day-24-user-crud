@@ -1,0 +1,21 @@
+/* .user-form{
+    max-width: 80% !important;
+    padding: 1rem !important;
+    display: flex !important;
+    flex-direction: column !important;
+    gap: 10px !important;
+}
+
+.inner-box{
+    display:'flex' !important;
+    flex-direction: 'row' !important;
+    justify-content:'space-between' !important;
+    margin-bottom: 10px !important;
+}
+*/
+.input-field{
+    margin-bottom: 10px !important;
+} 
+.user-form{
+    margin-top: -47px !important;
+}
